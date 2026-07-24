@@ -7,73 +7,73 @@
 ## Pages
 
 ### בית
-https://-31dde2a8.zappy5.app
+https://example.com
 מחפשים חנות חיות עם גורים? בואו להתאהב במגוון תוכים אקזוטיים יפהפיים. חוות התוכים פ״ת מחברת אתכם לחבר הכי טוב עם נוצות. כנסו עכשיו!
 
 ### מדריך טיפוח
-https://-31dde2a8.zappy5.app/care-guide
+https://example.com/care-guide
 מדריך טיפוח מקיף שיהפוך אתכם למומחים. גלו איך לגדל תוכי כמו חיית מחמד מושלמת, גם אם חיפשתם חנות חיות עם גורים. התחילו לטפח נכון עוד היום!
 
 ### אודות
-https://-31dde2a8.zappy5.app/about
+https://example.com/about
 הכירו את הצוות שמאחורי חוות התוכים פ״ת. אנחנו לא סתם עוד חנות חיות עם גורים, אלא בית חם לאוהבי תוכים אקזוטיים. בואו להיות חלק מהמשפחה!
 
 ### גלריה
-https://-31dde2a8.zappy5.app/gallery
+https://example.com/gallery
 גלריה עוצרת נשימה של התוכים האקזוטיים שלנו. ראו למה אנחנו הבחירה המושלמת, גם למי שחיפש חנות חיות עם גורים. הציצו והתאהבו עכשיו!
 
 ### צור קשר
-https://-31dde2a8.zappy5.app/contact
+https://example.com/contact
 מוכנים לפגוש את התוכי המושלם? צרו קשר עם חוות התוכים פ״ת עוד היום. אנחנו כאן כדי לעזור, גם אם הגעתם דרך חיפוש חנות חיות עם גורים. דברו איתנו!
 
 ### Products
-https://-31dde2a8.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - חוות התוכים פ״ת
 
 ### Cart
-https://-31dde2a8.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-31dde2a8.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-31dde2a8.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-31dde2a8.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-31dde2a8.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-31dde2a8.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - חוות התוכים פ״ת
 
 ### Category
-https://-31dde2a8.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - חוות התוכים פ״ת
 
 ### תודה רבה - חוות התוכים פ״ת
-https://-31dde2a8.zappy5.app/thank-you
+https://example.com/thank-you
 תודה על פנייתך לחוות התוכים פ״ת. הודעתך התקבלה בהצלחה ונחזור אליך בהקדם האפשרי.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-31dde2a8.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-31dde2a8.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-31dde2a8.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -104,8 +104,8 @@ Pet Store
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-31dde2a8.zappy5.app/sitemap.xml
-- Robots: https://-31dde2a8.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-31dde2a8.zappy5.app/llms-full.txt
-- Products (JSON): https://-31dde2a8.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-31dde2a8.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
