@@ -1,0 +1,111 @@
+# חוות התוכים פ״ת — Generative Engine Optimization Map
+
+> An online store specializing in selling parrots. The business focuses on connecting bird enthusiasts with parrots, likely offering a variety of parrot species for sale.
+
+---
+
+## Pages
+
+### בית
+https://-31dde2a8.zappy5.app
+מחפשים חנות חיות עם גורים? בואו להתאהב במגוון תוכים אקזוטיים יפהפיים. חוות התוכים פ״ת מחברת אתכם לחבר הכי טוב עם נוצות. כנסו עכשיו!
+
+### מדריך טיפוח
+https://-31dde2a8.zappy5.app/care-guide
+מדריך טיפוח מקיף שיהפוך אתכם למומחים. גלו איך לגדל תוכי כמו חיית מחמד מושלמת, גם אם חיפשתם חנות חיות עם גורים. התחילו לטפח נכון עוד היום!
+
+### אודות
+https://-31dde2a8.zappy5.app/about
+הכירו את הצוות שמאחורי חוות התוכים פ״ת. אנחנו לא סתם עוד חנות חיות עם גורים, אלא בית חם לאוהבי תוכים אקזוטיים. בואו להיות חלק מהמשפחה!
+
+### גלריה
+https://-31dde2a8.zappy5.app/gallery
+גלריה עוצרת נשימה של התוכים האקזוטיים שלנו. ראו למה אנחנו הבחירה המושלמת, גם למי שחיפש חנות חיות עם גורים. הציצו והתאהבו עכשיו!
+
+### צור קשר
+https://-31dde2a8.zappy5.app/contact
+מוכנים לפגוש את התוכי המושלם? צרו קשר עם חוות התוכים פ״ת עוד היום. אנחנו כאן כדי לעזור, גם אם הגעתם דרך חיפוש חנות חיות עם גורים. דברו איתנו!
+
+### Products
+https://-31dde2a8.zappy5.app/products
+המוצרים שלנו - חוות התוכים פ״ת
+
+### Cart
+https://-31dde2a8.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-31dde2a8.zappy5.app/checkout
+תשלום
+
+### Login
+https://-31dde2a8.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-31dde2a8.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-31dde2a8.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-31dde2a8.zappy5.app/product/:slug
+פרטי המוצר - חוות התוכים פ״ת
+
+### Category
+https://-31dde2a8.zappy5.app/category/:slug
+מוצרים - חוות התוכים פ״ת
+
+### תודה רבה - חוות התוכים פ״ת
+https://-31dde2a8.zappy5.app/thank-you
+תודה על פנייתך לחוות התוכים פ״ת. הודעתך התקבלה בהצלחה ונחזור אליך בהקדם האפשרי.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-31dde2a8.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-31dde2a8.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-31dde2a8.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About חוות התוכים פ״ת
+An online store specializing in selling parrots. The business focuses on connecting bird enthusiasts with parrots, likely offering a variety of parrot species for sale.
+
+## Services/Products
+- מכירת תוכים
+
+## Target Audience
+- חובבי תוכים מושבעים
+- בעלי חיות מחמד צעירים
+- משפחות עם ילדים
+
+## Industry
+Pet Store
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-31dde2a8.zappy5.app/sitemap.xml
+- Robots: https://-31dde2a8.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-31dde2a8.zappy5.app/llms-full.txt
+- Products (JSON): https://-31dde2a8.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-31dde2a8.zappy5.app/product-feed.xml
